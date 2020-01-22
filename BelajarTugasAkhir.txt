@@ -1,0 +1,4 @@
+Bismillah
+1. Belajar Git dan Github
+2. Belajar Laravel
+3. Penyusunan Tugas Akhir
